@@ -1,3 +1,4 @@
 hello! GitHub
 
-I made branch_a and working on it.
+I'm learning Git usage.
+I finished working on branch_a.
